@@ -1,2 +1,2 @@
-# drone-video-to-sentence-master
+# Drone-Video-to-Sentence (DV2S)
 on the construction
