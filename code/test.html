@@ -1,0 +1,18 @@
+var http = require('http');
+// server 객체 생성 http.createServer([callbakck])
+var server = http.createServer(function(req, res){
+	console.log('req:'+req.url);
+	res.writeHead(200,{'Content-Type':'text/html'};
+	res.end("Hi Banana");
+
+});
+
+server.on('connection', function(socket){
+	console.log('connection : ' + socket.localAddress);
+
+});
+
+// listen (port, [, callback]) 서버 대기(실행)메서드
+server.listen(9999,function(){
+	console.log('server is listening on 9999');
+});
