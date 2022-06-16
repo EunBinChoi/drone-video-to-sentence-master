@@ -1,1 +1,0 @@
-# drone-video-to-sentence-master
