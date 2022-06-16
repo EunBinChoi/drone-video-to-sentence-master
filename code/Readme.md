@@ -1,4 +1,4 @@
-#NeuralTalk
+# NeuralTalk
 
 **Warning: Deprecated.**
 Hi there, this code is now quite old and inefficient, and now deprecated. I am leaving it on Github for educational purposes, but if you would like to run or train image captioning I warmly recommend my new code release [NeuralTalk2](https://github.com/karpathy/neuraltalk2). NeuralTalk2 is written in [Torch](http://torch.ch/) and is SIGNIFICANTLY (I mean, ~100x+) faster because it is batched and runs on the GPU. It also supports CNN finetuning, which helps a lot with performance.
