@@ -13,7 +13,7 @@ To approach this problem, we propose a novel end-to-end sequence-to-sequence mod
 Reference
 If you find this code helpful, please consider citing:
 
-Sequence to Sequence - Video to Text<https://vsubhashini.github.io/s2vt.html>
+[Sequence to Sequence - Video to Text] [https://vsubhashini.github.io/s2vt.html]
 
 S. Venugopalan, M. Rohrbach, J. Donahue, T. Darrell, R. Mooney, K. Saenko
 The IEEE International Conference on Computer Vision (ICCV) 2015
